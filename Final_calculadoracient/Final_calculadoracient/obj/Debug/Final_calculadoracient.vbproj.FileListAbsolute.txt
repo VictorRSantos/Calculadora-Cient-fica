@@ -1,0 +1,47 @@
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe.config
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\bin\Debug\Final_calculadoracient.pdb
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\bin\Debug\Final_calculadoracient.xml
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form1.resources
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.Resources.resources
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbproj.GenerateResource.Cache
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.exe
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.xml
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.pdb
+C:\Users\Victor-Room\AppData\Local\Temporary Projects\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form2.resources
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe.config
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.exe
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.xml
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.pdb
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.pdb
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.xml
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form1.resources
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form2.resources
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Resources.resources
+C:\Users\Victor-Room\Desktop\VB.NET EXERCICIOS\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbproj.GenerateResource.Cache
+E:\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe.config
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.exe
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.xml
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.pdb
+E:\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe
+E:\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.pdb
+E:\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.xml
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form1.resources
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form2.resources
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Resources.resources
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbproj.GenerateResource.Cache
+E:\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbprojResolveAssemblyReference.cache
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe.config
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.exe
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.pdb
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\bin\Debug\Final_calculadoracient.xml
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbprojResolveAssemblyReference.cache
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form1.resources
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Form2.resources
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.Resources.resources
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbproj.GenerateResource.Cache
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.vbproj.CoreCompileInputs.cache
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.exe
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.xml
+C:\Users\Victor Rodrigues\Desktop\Projetos\VB.Net\Victor_Final_calculadoracient_visual2013\Final_calculadoracient\Final_calculadoracient\obj\Debug\Final_calculadoracient.pdb
